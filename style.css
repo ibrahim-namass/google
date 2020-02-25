@@ -1,0 +1,135 @@
+#recherche
+{
+    border: .5px solid rgba(0, 0, 0, 0.452);
+    border-radius: 80px;
+    height: 45px;
+    margin-top: -15%;
+}
+#recherche:hover
+{
+    box-shadow: gray 5px 5px 5px;
+}
+.uno
+{
+    margin-top: 200px;
+    text-align: center;
+    margin-top: 75px;
+}
+.google
+{
+    width: 300px;
+}
+.wu
+{
+    width: 35px;
+}
+.pam
+{
+    background-color: white;
+    width: 16px;
+    position: relative;
+    right: 0px;
+    top: 44px;
+    left: 220px;
+}
+.dos
+{
+    
+}
+.papapoum
+{
+    display: block;
+    background-color: rgba(245, 240, 240, 0.726);
+}
+.titi
+{
+    display: flex;
+    justify-content: space-between;
+}
+.nini
+{
+    display: flex;
+    justify-content: space-between;
+}
+.tos , .nini
+{
+    border-top: rgba(128, 128, 128, 0.336) 1px solid;
+}
+.piyouw
+{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.dog
+{
+    background-color: rgba(245, 240, 240, 0.726);
+}
+.vie
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+nav ul
+{
+    list-style: none;
+    display: flex;
+}
+li , .bi, .xi
+{
+    margin-right: 15px;
+}
+nav a
+{
+    text-decoration: none;
+    color: black;
+}
+.ki
+{
+    background-color: blue;
+    border:blue 3px solid;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+}
+.li
+{
+    margin-top: -6px;
+}
+.qi
+{
+    color: white;
+}
+.bi
+{
+    background-color: rgba(245, 240, 240, 0.726);
+    border: rgba(245, 240, 240, 0.726)  3px solid;
+} 
+a
+{
+    text-decoration: none;
+}
+.gi , .xi , .tos , .tt
+{
+    color: rgba(51, 49, 49, 0.699);
+}
+.papapoum
+{
+    background-color: rgba(245, 240, 240, 0.726);
+    flex-direction: row;
+    position: relative;
+    bottom: -500px;
+}
+.nini , .tos
+{
+    height: 50px;
+}
+
+@media screen and (max-width: 700px)
+{
+    
+}
+   
